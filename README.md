@@ -14,5 +14,5 @@ To get the products of first 10 prime products, do
 
 To get the products of first n prime products, do
 
-   > java -jar /Users/ravi/fun/primes/target/primes-0.1.0-SNAPSHOT-standalone.jar <n>
+   > java -jar /Users/ravi/fun/primes/target/primes-0.1.0-SNAPSHOT-standalone.jar \<n\>
 
